@@ -3,5 +3,5 @@ Et avec une voix sexy ça donne: Bonjour monde !"
 
 puts message
 
-"la difference entre print et puts
-c'est que print ne revient pas à la ligne comme puts"
+#la difference entre print et puts
+#c'est que tout ce qui suivra apres print s'affichera sur la meme ligne
