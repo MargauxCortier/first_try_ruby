@@ -3,6 +3,9 @@ message = "Bonjour monde !
 
 puts message
 
-"il ne se passe rien mis à part que nous venons
-à ruby que nous voulions ajouter le contenu d'une variable
-ici vide"
+
+= Début
+il ne se passe rien mis à part que nous venons
+à ruby que nous voulions ajouter le contenu dune variable
+ici vide
+= fin
